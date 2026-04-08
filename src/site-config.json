@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Plumb Doctor",
+    "phone": "+13173069343",
+    "category": "plumbing company",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis's Plumbing Problem Solvers",
+      "heroSubline": "From Broad Ripple to Carmel, we tackle the toughest leaks, clogs, and plumbing nightmares. Trust Plumb Doctor for fast, reliable service.",
+      "aboutTitle": "Your Trusted Indianapolis Plumbers",
+      "aboutText": [
+        "Plumb Doctor started with a simple mission: to provide honest, reliable plumbing services to our neighbors in Indianapolis. We're not just fixing pipes, we're building relationships based on trust and quality workmanship.",
+        "We approach every job, big or small, with the same dedication to excellence. Our team uses proven techniques and quality materials to ensure lasting solutions. We explain the problem clearly and offer transparent pricing, so you're always in the know.",
+        "We're proud to serve the Indianapolis community. We support local schools and charities, and we're committed to providing fair and ethical service to every homeowner. We're your neighbors, and we treat you like family."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Plumbing emergencies don't wait for business hours. We're available around the clock to handle your urgent plumbing needs."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No surprises. We provide clear, detailed estimates before any work begins, so you know exactly what to expect."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team of licensed and insured plumbers has the expertise to handle any plumbing challenge, from simple repairs to complex installations."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. If you're not completely satisfied with our service, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Solve Your Plumbing Problems Today!",
+      "ctaSubline": "Call Plumb Doctor for fast, reliable service in Indianapolis and surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "drain-cleaning",
+        "name": "Drain Cleaning",
+        "shortDescription": "Fast and effective drain cleaning to keep your plumbing flowing smoothly.",
+        "description": "Clogged drains are a common nuisance in Indianapolis homes, especially with older plumbing found in areas like Broad Ripple and Meridian-Kessler. From slow-draining sinks to completely blocked pipes, Plumb Doctor's drain cleaning service gets your water flowing again. We use a variety of methods, including snaking, hydro jetting, and enzymatic cleaners, to clear even the toughest obstructions. We tackle everything from hair and grease buildup to tree root intrusion. \n\nOur experienced technicians will diagnose the cause of your drain blockage and recommend the most effective solution. We'll also provide tips on how to prevent future clogs, such as avoiding pouring grease down the drain and using drain screens. Considering the age of many Indianapolis homes, regular drain maintenance is crucial to prevent costly plumbing repairs down the road. \n\nDon't let a clogged drain disrupt your day. Call Plumb Doctor for fast, reliable drain cleaning services. We'll have your drains flowing freely in no time, whether it's a simple sink clog or a more complex sewer line blockage.",
+        "process": [
+          "Step 1: Diagnose the cause of the clog using camera inspection if needed.",
+          "Step 2: Select the appropriate drain cleaning method (snaking, hydro jetting, etc.).",
+          "Step 3: Clear the clog and restore proper drainage.",
+          "Step 4: Provide tips on preventing future clogs."
+        ],
+        "benefits": [
+          "Fast and effective drain clearing",
+          "Prevents future plumbing problems",
+          "Eliminates unpleasant odors",
+          "Extends the life of your plumbing system"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my drains cleaned?",
+            "answer": "We recommend professional drain cleaning every 1-2 years to prevent buildup and blockages. Homes with older plumbing may benefit from more frequent cleaning."
+          },
+          {
+            "question": "What are the signs of a clogged drain?",
+            "answer": "Signs of a clogged drain include slow-draining sinks, gurgling sounds, and unpleasant odors. If you notice any of these signs, call Plumb Doctor for prompt service."
+          },
+          {
+            "question": "Is hydro jetting safe for my pipes?",
+            "answer": "Yes, hydro jetting is a safe and effective method for clearing stubborn clogs. Our technicians are trained to use hydro jetting equipment safely and effectively without damaging your pipes."
+          }
+        ]
+      },
+      {
+        "slug": "water-heater-repair",
+        "name": "Water Heater Repair & Installation",
+        "shortDescription": "Expert water heater services to keep your hot water flowing.",
+        "description": "A malfunctioning water heater can be a major inconvenience, especially during Indianapolis's cold winters. Plumb Doctor provides comprehensive water heater repair and installation services for all types of water heaters, including gas, electric, and tankless models. We understand the importance of having reliable hot water for showers, laundry, and dishwashing.\n\nOur experienced technicians can diagnose and repair a wide range of water heater problems, from leaks and strange noises to inconsistent water temperature and no hot water at all. We use quality replacement parts to ensure lasting repairs. If your water heater is beyond repair, we can recommend and install a new, energy-efficient model that meets your needs and budget. We work with all major brands and offer expert advice on choosing the right water heater for your home.\n\nWhether you need a quick repair or a complete water heater replacement, Plumb Doctor is here to help. We offer fast, reliable service and upfront pricing. Don't suffer through another cold shower – call us today!",
+        "process": [
+          "Step 1: Inspect the water heater to diagnose the problem.",
+          "Step 2: Provide a detailed estimate for repair or replacement.",
+          "Step 3: Perform the necessary repairs or install a new water heater.",
+          "Step 4: Test the water heater to ensure proper operation."
+        ],
+        "benefits": [
+          "Reliable hot water",
+          "Energy-efficient operation",
+          "Extended water heater lifespan",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How long does a water heater typically last?",
+            "answer": "The average lifespan of a water heater is 8-12 years. Regular maintenance can help extend its lifespan."
+          },
+          {
+            "question": "What are the signs that my water heater needs to be replaced?",
+            "answer": "Signs that your water heater needs to be replaced include leaks, rust, strange noises, and inconsistent water temperature."
+          },
+          {
+            "question": "What is a tankless water heater?",
+            "answer": "A tankless water heater heats water on demand, providing endless hot water and saving energy. They are a great option for homes with high hot water usage."
+          }
+        ]
+      },
+      {
+        "slug": "leak-detection",
+        "name": "Leak Detection",
+        "shortDescription": "Pinpointing hidden leaks to prevent water damage and save you money.",
+        "description": "Hidden leaks can cause significant damage to your Indianapolis home, leading to mold growth, structural problems, and high water bills. Plumb Doctor's leak detection service uses advanced technology to pinpoint the source of hidden leaks quickly and accurately. We use non-invasive methods to minimize disruption to your home.\n\nOur experienced technicians are trained to identify leaks in walls, floors, and underground pipes. We use acoustic listening devices, infrared cameras, and other specialized equipment to locate leaks without tearing into your walls or floors. Once we've located the leak, we can provide expert repair services to stop the leak and prevent further damage.\n\nDon't let a hidden leak drain your wallet and damage your home. Call Plumb Doctor for professional leak detection services. We'll find the leak and provide a cost-effective solution to protect your property.",
+        "process": [
+          "Step 1: Conduct a thorough inspection of your plumbing system.",
+          "Step 2: Use advanced leak detection technology to locate hidden leaks.",
+          "Step 3: Provide a detailed report of our findings.",
+          "Step 4: Offer expert repair services to stop the leak."
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Saves money on water bills",
+          "Protects your home from mold growth",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a hidden leak?",
+            "answer": "Signs of a hidden leak include unexplained increases in your water bill, damp spots on walls or floors, and the sound of running water when no fixtures are in use."
+          },
+          {
+            "question": "How much does leak detection cost?",
+            "answer": "The cost of leak detection varies depending on the size and complexity of the job. We provide upfront pricing before any work begins."
+          },
+          {
+            "question": "Can you repair the leak after you find it?",
+            "answer": "Yes, we offer comprehensive leak repair services to stop the leak and prevent further damage."
+          }
+        ]
+      },
+      {
+        "slug": "sewer-line-repair",
+        "name": "Sewer Line Repair & Replacement",
+        "shortDescription": "Expert sewer line services to keep your home's waste flowing properly.",
+        "description": "Sewer line problems can be messy, expensive, and disruptive. Plumb Doctor provides expert sewer line repair and replacement services to homeowners in Indianapolis and surrounding areas. We understand the importance of having a properly functioning sewer line to protect your home and health.\n\nOur experienced technicians use advanced techniques to diagnose and repair sewer line problems, including pipe bursting, trenchless repair, and traditional excavation. We can handle everything from minor repairs to complete sewer line replacements. We also offer sewer line cleaning and inspection services to prevent future problems.\n\nWe understand that sewer line problems can be stressful. That's why we offer fast, reliable service and transparent pricing. We'll explain the problem clearly and provide you with the best solution for your needs and budget. We always obtain the required permits for sewer line work in Indianapolis, ensuring code compliance.\n\nDon't let a sewer line problem ruin your day. Call Plumb Doctor for expert sewer line services.",
+        "process": [
+          "Step 1: Diagnose the sewer line problem using camera inspection.",
+          "Step 2: Recommend the best repair or replacement method.",
+          "Step 3: Obtain the necessary permits.",
+          "Step 4: Perform the sewer line repair or replacement."
+        ],
+        "benefits": [
+          "Properly functioning sewer line",
+          "Prevents sewage backups",
+          "Protects your home and health",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a sewer line problem?",
+            "answer": "Signs of a sewer line problem include sewage backups, slow-draining toilets, gurgling sounds, and unpleasant odors."
+          },
+          {
+            "question": "What is trenchless sewer line repair?",
+            "answer": "Trenchless sewer line repair is a method of repairing or replacing sewer lines without digging a large trench. It is less disruptive and more cost-effective than traditional excavation."
+          },
+          {
+            "question": "How much does sewer line repair or replacement cost?",
+            "answer": "The cost of sewer line repair or replacement varies depending on the extent of the damage and the method used. We provide upfront pricing before any work begins."
+          }
+        ]
+      },
+      {
+        "slug": "fixture-installation",
+        "name": "Fixture Installation",
+        "shortDescription": "Professional installation of faucets, sinks, toilets, and more.",
+        "description": "Upgrading your fixtures can enhance the look and functionality of your Indianapolis home. Plumb Doctor provides professional fixture installation services for faucets, sinks, toilets, showers, and more. We ensure that your new fixtures are installed correctly and efficiently.\n\nOur experienced technicians can handle all types of fixture installations, from simple faucet replacements to complete bathroom renovations. We work with all major brands and offer expert advice on choosing the right fixtures for your needs and budget. We also ensure that all installations meet local plumbing codes.\n\nWhether you're renovating your kitchen or bathroom or simply replacing a leaky faucet, Plumb Doctor is here to help. We offer fast, reliable service and competitive pricing. We'll make sure your new fixtures are installed properly and look great.",
+        "process": [
+          "Step 1: Remove the old fixture.",
+          "Step 2: Prepare the area for the new fixture.",
+          "Step 3: Install the new fixture according to manufacturer's instructions.",
+          "Step 4: Test the fixture to ensure proper operation."
+        ],
+        "benefits": [
+          "Enhanced home aesthetics",
+          "Improved functionality",
+          "Increased property value",
+          "Leak-free operation"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to install a new toilet?",
+            "answer": "The installation of a new toilet typically takes 1-2 hours."
+          },
+          {
+            "question": "Do you offer a warranty on your fixture installations?",
+            "answer": "Yes, we offer a warranty on our workmanship."
+          },
+          {
+            "question": "Can you help me choose the right fixtures for my home?",
+            "answer": "Yes, we can provide expert advice on choosing the right fixtures for your needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "sump-pump-services",
+        "name": "Sump Pump Services",
+        "shortDescription": "Keep your basement dry with our sump pump repair, installation, and maintenance services.",
+        "description": "Indianapolis homes, particularly those in areas prone to flooding or with older foundations, rely on sump pumps to prevent basement flooding. Plumb Doctor offers comprehensive sump pump services including installation, repair, and maintenance. We know a functioning sump pump is crucial, especially during heavy rains and snow melts.\n\nOur team can assess your basement's needs and recommend the right sump pump for your home. We install all types of sump pumps including submersible and pedestal models, along with battery backup systems for uninterrupted protection during power outages. If your existing sump pump is malfunctioning, we offer prompt repair services to get it back up and running quickly.\n\nRegular maintenance is key to a reliable sump pump. We provide maintenance services to ensure your sump pump is operating efficiently and effectively, preventing costly water damage in your basement. Don't wait for the next downpour – call Plumb Doctor for reliable sump pump services and peace of mind.",
+        "process": [
+          "Step 1: Evaluate your basement's specific needs and potential for flooding.",
+          "Step 2: Recommend the appropriate sump pump system and backup options.",
+          "Step 3: Install the sump pump according to manufacturer's guidelines and local codes.",
+          "Step 4: Provide ongoing maintenance and repair services to ensure optimal performance."
+        ],
+        "benefits": [
+          "Prevents basement flooding",
+          "Protects your belongings from water damage",
+          "Reduces the risk of mold growth",
+          "Provides peace of mind during heavy rains"
+        ],
+        "faq": [
+          {
+            "question": "How often should I replace my sump pump?",
+            "answer": "Sump pumps typically last 7-10 years. We recommend replacing your sump pump before it fails to avoid potential water damage."
+          },
+          {
+            "question": "What is a battery backup sump pump?",
+            "answer": "A battery backup sump pump provides power to your sump pump during a power outage, ensuring continuous protection against flooding."
+          },
+          {
+            "question": "How do I know if my sump pump is failing?",
+            "answer": "Signs of a failing sump pump include unusual noises, infrequent cycling, and standing water in the sump pit."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "Plumb Doctor is proud to offer our full range of plumbing services to the residents and businesses of Carmel, Indiana. Known for its upscale neighborhoods developed primarily from the 1980s through the 2000s, Carmel presents unique plumbing needs, from maintaining complex irrigation systems to ensuring the efficient operation of modern appliances. We understand the importance of quality and reliability in this community, and our experienced technicians are equipped to handle any plumbing issue, big or small. \n\nWith Carmel's cold winters, frozen pipes are a common concern. Plumb Doctor provides expert pipe insulation and winterization services to help prevent costly damage and keep your home comfortable. We also offer routine maintenance checks to identify and address potential problems before they escalate, giving you peace of mind throughout the year.",
+        "localContext": "Carmel is known for its upscale residential developments dating from the 1980s-2000s and experiences cold, snowy winters.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Westfield",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "Plumb Doctor is dedicated to serving the rapidly growing community of Fishers, Indiana. Characterized by its newer, planned communities developed from the 1990s through the 2020s, Fishers homes often feature modern plumbing systems that require specialized expertise. We are committed to providing efficient and reliable plumbing services to meet the needs of this dynamic city.\n\nFrom new construction plumbing to repairs and maintenance, Plumb Doctor has you covered in Fishers. We understand the unique challenges posed by Indiana's cold winters, including the risk of frozen pipes. Our team offers comprehensive winterization services and emergency plumbing repairs to keep your home safe and comfortable.",
+        "localContext": "Fishers is comprised of newer planned communities built from the 1990s-2020s and experiences cold, snowy winters.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Carmel",
+          "Noblesville"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "Plumb Doctor is pleased to provide plumbing services to the historic city of Noblesville, Indiana. With its charming Courthouse Square area and diverse range of homes, Noblesville presents a variety of plumbing needs. We are committed to preserving the historical integrity of older homes while ensuring modern plumbing systems function efficiently and reliably.\n\nWhether you reside in a historic home near the square or a newer development, Plumb Doctor offers comprehensive plumbing solutions tailored to your specific needs. We understand the challenges of maintaining older plumbing systems and are equipped to handle repairs, replacements, and upgrades with expertise and care. We also provide winterization services to protect your pipes from the harsh Indiana winters.",
+        "localContext": "Noblesville has a historic Courthouse Square area with older homes and experiences cold, snowy winters.",
+        "nearbyAreas": [
+          "Fishers",
+          "Carmel",
+          "Cicero"
+        ]
+      },
+      {
+        "city": "Indianapolis",
+        "slug": "indianapolis-in",
+        "state": "IN",
+        "content": "Plumb Doctor is your trusted plumbing partner in Indianapolis, Indiana. As the largest city in Indiana, Indianapolis presents a diverse range of plumbing needs, from historic homes in the Old Northside to modern high-rises downtown. We are committed to providing prompt, reliable, and affordable plumbing services to residents and businesses throughout the city. \n\nNo matter your plumbing issue, Plumb Doctor has the expertise to resolve it quickly and efficiently. From leaky faucets and clogged drains to water heater repairs and sewer line replacements, we handle it all. We also offer emergency plumbing services 24/7, because plumbing emergencies don't wait for business hours.",
+        "localContext": "Indianapolis is a large, diverse city with a mix of old and new homes and buildings.",
+        "nearbyAreas": [
+          "Carmel",
+          "Fishers",
+          "Greenwood"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "Plumb Doctor provides expert plumbing services to the residents and businesses of Zionsville, Indiana. Known for its charming village atmosphere and distinctive architecture, Zionsville requires a plumbing company that understands its unique character. We are committed to providing high-quality plumbing solutions that blend seamlessly with the town's aesthetic.\n\nWhether you need routine maintenance, emergency repairs, or new construction plumbing, Plumb Doctor has you covered in Zionsville. We understand the importance of preserving the town's historical integrity and offer specialized services for older homes. We also provide winterization services to protect your pipes from the harsh Indiana winters, ensuring peace of mind throughout the year.",
+        "localContext": "Zionsville is known for its village atmosphere and distinctive architecture.",
+        "nearbyAreas": [
+          "Carmel",
+          "Whitestown",
+          "Lebanon"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "Plumb Doctor is proud to serve the growing community of Westfield, Indiana, providing reliable and efficient plumbing solutions. With its mix of established neighborhoods and new developments, Westfield presents a variety of plumbing needs. Our experienced technicians are equipped to handle any plumbing issue, from routine maintenance to complex repairs.\n\nWe understand the importance of quality workmanship and customer satisfaction. Whether you need a leaky faucet fixed, a water heater replaced, or a new plumbing system installed, Plumb Doctor is committed to exceeding your expectations. We also offer emergency plumbing services to address urgent issues promptly and effectively.",
+        "localContext": "Westfield has a mix of established neighborhoods and new developments.",
+        "nearbyAreas": [
+          "Carmel",
+          "Sheridan",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Greenwood",
+        "slug": "greenwood-in",
+        "state": "IN",
+        "content": "Plumb Doctor is dedicated to providing top-notch plumbing services to the residents and businesses of Greenwood, Indiana. As a thriving suburban community, Greenwood experiences a diverse range of plumbing needs. We are committed to offering prompt, reliable, and affordable solutions to keep your plumbing systems running smoothly.\n\nFrom routine maintenance and repairs to new installations and renovations, Plumb Doctor has you covered in Greenwood. We understand the importance of addressing plumbing issues quickly and efficiently to minimize disruption to your daily life. Our experienced technicians are equipped with the latest tools and technology to diagnose and resolve any plumbing problem.",
+        "localContext": "Greenwood is a thriving suburban community with diverse plumbing needs.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Franklin",
+          "Whiteland"
+        ]
+      },
+      {
+        "city": "Brownsburg",
+        "slug": "brownsburg-in",
+        "state": "IN",
+        "content": "Plumb Doctor is pleased to offer comprehensive plumbing services to the residents and businesses of Brownsburg, Indiana. Known for its family-friendly atmosphere and growing community, Brownsburg presents a variety of plumbing needs. We are committed to providing reliable and affordable solutions to ensure your plumbing systems function optimally.\n\nWhether you need routine maintenance, emergency repairs, or new construction plumbing, Plumb Doctor has you covered in Brownsburg. We understand the importance of addressing plumbing issues promptly to prevent further damage and inconvenience. Our experienced technicians are equipped to handle any plumbing problem, big or small.",
+        "localContext": "Brownsburg is a family-friendly town with a growing community.",
+        "nearbyAreas": [
+          "Avon",
+          "Plainfield",
+          "Indianapolis"
+        ]
+      },
+      {
+        "city": "Avon",
+        "slug": "avon-in",
+        "state": "IN",
+        "content": "Plumb Doctor proudly serves the residents and businesses of Avon, Indiana, providing reliable and efficient plumbing services. As a rapidly growing community, Avon experiences a variety of plumbing needs, from new construction projects to routine maintenance and repairs. We are committed to offering prompt and affordable solutions to keep your plumbing systems in top condition.\n\nWhether you need a leaky faucet fixed, a water heater replaced, or a new plumbing system installed, Plumb Doctor has you covered in Avon. We understand the importance of addressing plumbing issues quickly and effectively to minimize disruption to your daily life. Our experienced technicians are equipped with the latest tools and technology to diagnose and resolve any plumbing problem.",
+        "localContext": "Avon is a rapidly growing community with diverse plumbing needs.",
+        "nearbyAreas": [
+          "Brownsburg",
+          "Plainfield",
+          "Indianapolis"
+        ]
+      },
+      {
+        "city": "Plainfield",
+        "slug": "plainfield-in",
+        "state": "IN",
+        "content": "Plumb Doctor is dedicated to providing exceptional plumbing services to the residents and businesses of Plainfield, Indiana. Known for its strong community spirit and convenient location, Plainfield presents a variety of plumbing needs. We are committed to offering reliable, affordable, and efficient solutions to ensure your plumbing systems function optimally.\n\nFrom routine maintenance and repairs to new installations and renovations, Plumb Doctor has you covered in Plainfield. We understand the importance of addressing plumbing issues promptly to prevent further damage and inconvenience. Our experienced technicians are equipped to handle any plumbing problem, big or small, with expertise and care.",
+        "localContext": "Plainfield is known for its strong community spirit and convenient location.",
+        "nearbyAreas": [
+          "Avon",
+          "Brownsburg",
+          "Mooresville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Water Heater Replacement",
+        "text": "Our old water heater finally gave out. Plumb Doctor came out the same day and gave us a fair price on a new one. The installation was quick and professional, and they even hauled away the old unit. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Drain Cleaning",
+        "text": "Had a stubborn clog in our kitchen sink. Plumb Doctor was able to clear it quickly using some kind of special tool. The plumber was friendly and explained everything he was doing. Would use them again.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Sewer Line Repair",
+        "text": "We had a major sewer line issue and were dreading the cost and the mess. Plumb Doctor was able to repair it with minimal digging using a trenchless method. They saved us a ton of money and hassle. Very professional and efficient.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Leak Detection",
+        "text": "We suspected a leak in our basement but couldn't find it. Plumb Doctor used some fancy equipment to pinpoint the source of the leak behind a wall. They were able to fix it quickly and prevent further damage. Great service!",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Fixture Installation",
+        "text": "Plumb Doctor installed a new faucet in our bathroom. The plumber was on time, courteous, and did a great job. The new faucet looks beautiful! The only reason for 4 stars is the price was a little higher than I expected, but the quality of the work was worth it.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Sump Pump Replacement",
+        "text": "Our sump pump failed during a heavy rainstorm. Plumb Doctor came out immediately and replaced it with a new, more powerful model. They saved our basement from flooding! Highly recommend their emergency service.",
+        "date": "2024-10-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Plumb Doctor | Indianapolis Plumbing Experts",
+        "description": "Reliable plumbing services in Indianapolis. 24/7 emergency repair, drain cleaning, water heaters & more. Call Plumb Doctor today!"
+      },
+      "about": {
+        "title": "About Plumb Doctor - Indianapolis Plumbing Company",
+        "description": "Learn about Plumb Doctor, your trusted Indianapolis plumbing company. Honest, reliable service for all your plumbing needs."
+      },
+      "services": {
+        "title": "Plumbing Services | Indianapolis IN | Plumb Doctor",
+        "description": "Comprehensive plumbing services in Indianapolis. Drain cleaning, water heater repair, leak detection, sewer lines & more. Call Plumb Doctor!"
+      },
+      "contact": {
+        "title": "Contact Plumb Doctor | Indianapolis Plumbers",
+        "description": "Contact Plumb Doctor for fast, reliable plumbing service in Indianapolis. Get a free quote for your plumbing needs."
+      },
+      "reviews": {
+        "title": "Plumb Doctor Reviews | Indianapolis Plumbing",
+        "description": "Read reviews from satisfied Plumb Doctor customers in Indianapolis. See why we're the trusted choice for plumbing services."
+      },
+      "service-areas": {
+        "title": "Plumb Doctor Service Areas | Indianapolis IN",
+        "description": "Plumb Doctor provides plumbing services in Indianapolis and surrounding areas. See our service area map and contact us today."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "drain-cleaning": "/images/service-drain-cleaning.webp",
+      "water-heater-repair": "/images/service-water-heater-repair.webp",
+      "leak-detection": "/images/service-leak-detection.webp",
+      "sewer-line-repair": "/images/service-sewer-line-repair.webp",
+      "fixture-installation": "/images/service-fixture-installation.webp",
+      "sump-pump-services": "/images/service-sump-pump-services.webp"
+    },
+    "servicesResponsive": {
+      "drain-cleaning": {
+        "src": "/images/service-drain-cleaning.webp",
+        "srcset": "/images/service-drain-cleaning-400w.webp 400w, /images/service-drain-cleaning-800w.webp 800w, /images/service-drain-cleaning-1200w.webp 1200w, /images/service-drain-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "water-heater-repair": {
+        "src": "/images/service-water-heater-repair.webp",
+        "srcset": "/images/service-water-heater-repair-400w.webp 400w, /images/service-water-heater-repair-800w.webp 800w, /images/service-water-heater-repair-1200w.webp 1200w, /images/service-water-heater-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "leak-detection": {
+        "src": "/images/service-leak-detection.webp",
+        "srcset": "/images/service-leak-detection-400w.webp 400w, /images/service-leak-detection-800w.webp 800w, /images/service-leak-detection-1200w.webp 1200w, /images/service-leak-detection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sewer-line-repair": {
+        "src": "/images/service-sewer-line-repair.webp",
+        "srcset": "/images/service-sewer-line-repair-400w.webp 400w, /images/service-sewer-line-repair-800w.webp 800w, /images/service-sewer-line-repair-1200w.webp 1200w, /images/service-sewer-line-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fixture-installation": {
+        "src": "/images/service-fixture-installation.webp",
+        "srcset": "/images/service-fixture-installation-400w.webp 400w, /images/service-fixture-installation-800w.webp 800w, /images/service-fixture-installation-1200w.webp 1200w, /images/service-fixture-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sump-pump-services": {
+        "src": "/images/service-sump-pump-services.webp",
+        "srcset": "/images/service-sump-pump-services-400w.webp 400w, /images/service-sump-pump-services-800w.webp 800w, /images/service-sump-pump-services-1200w.webp 1200w, /images/service-sump-pump-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
